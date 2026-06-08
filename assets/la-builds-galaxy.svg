@@ -125,7 +125,7 @@
   </g>
 
   <!-- Other orbiting systems -->
-  <g class="reverse-spin">
+  <g class="slow-spin">
 
     <circle cx="1100" cy="250" r="20" fill="#b46bff"/>
     <text x="1100" y="250" text-anchor="middle" class="label">CAPTUREFLOW</text>
