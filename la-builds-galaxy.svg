@@ -1,0 +1,198 @@
+<svg width="1200" height="650" viewBox="0 0 1200 650" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="galaxyCore" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="25%" stop-color="#87ceeb"/>
+      <stop offset="60%" stop-color="#4b0082"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        fill: #ffffff;
+        font-family: Arial, sans-serif;
+        font-size: 38px;
+        font-weight: bold;
+      }
+
+      .subtitle {
+        fill: #87ceeb;
+        font-family: Arial, sans-serif;
+        font-size: 18px;
+      }
+
+      .label {
+        fill: white;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+      }
+
+      .smallLabel {
+        fill: #cccccc;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+      }
+
+      .orbit {
+        fill: none;
+        stroke: rgba(255,255,255,0.15);
+        stroke-width: 1;
+      }
+
+      .spinSlow {
+        animation: spin 90s linear infinite;
+        transform-origin: 600px 325px;
+      }
+
+      .spinMedium {
+        animation: spin 60s linear infinite;
+        transform-origin: 600px 325px;
+      }
+
+      .spinFast {
+        animation: spin 35s linear infinite;
+        transform-origin: 600px 325px;
+      }
+
+      @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="650" fill="#050816"/>
+
+  <!-- Stars -->
+  <g fill="white" opacity="0.8">
+    <circle cx="50" cy="80" r="1"/>
+    <circle cx="120" cy="140" r="2"/>
+    <circle cx="200" cy="50" r="1"/>
+    <circle cx="340" cy="120" r="1"/>
+    <circle cx="460" cy="70" r="2"/>
+    <circle cx="780" cy="90" r="1"/>
+    <circle cx="920" cy="50" r="2"/>
+    <circle cx="1050" cy="150" r="1"/>
+    <circle cx="1150" cy="80" r="2"/>
+    <circle cx="100" cy="550" r="1"/>
+    <circle cx="250" cy="600" r="2"/>
+    <circle cx="400" cy="500" r="1"/>
+    <circle cx="850" cy="550" r="2"/>
+    <circle cx="1000" cy="600" r="1"/>
+    <circle cx="1100" cy="520" r="2"/>
+  </g>
+
+  <!-- Title -->
+  <text x="600" y="60" text-anchor="middle" class="title">
+    LA BUILDS GALAXY
+  </text>
+
+  <text x="600" y="90" text-anchor="middle" class="subtitle">
+    AI Research • Systems Engineering • Human Augmentation
+  </text>
+
+  <!-- Galaxy Core -->
+  <circle cx="600" cy="325" r="70" fill="url(#galaxyCore)" filter="url(#glow)"/>
+
+  <text x="600" y="320" text-anchor="middle" class="label">
+    LA BUILDS
+  </text>
+
+  <text x="600" y="340" text-anchor="middle" class="smallLabel">
+    Innovation Hub
+  </text>
+
+  <!-- Orbits -->
+  <ellipse cx="600" cy="325" rx="150" ry="100" class="orbit"/>
+  <ellipse cx="600" cy="325" rx="250" ry="180" class="orbit"/>
+  <ellipse cx="600" cy="325" rx="360" ry="260" class="orbit"/>
+
+  <!-- Sentinel Protocol System -->
+  <g class="spinSlow">
+    <circle cx="850" cy="325" r="35" fill="#ffcc00" filter="url(#glow)"/>
+
+    <text x="850" y="375" text-anchor="middle" class="label">
+      Sentinel Protocol
+    </text>
+
+    <!-- Sentinel moons -->
+    <circle cx="900" cy="325" r="10" fill="#ff6666"/>
+    <text x="920" y="330" class="smallLabel">
+      ProtoCell
+    </text>
+
+    <circle cx="850" cy="275" r="8" fill="#66ccff"/>
+    <text x="870" y="280" class="smallLabel">
+      ARES
+    </text>
+
+    <circle cx="810" cy="360" r="8" fill="#66ff99"/>
+    <text x="760" y="365" class="smallLabel">
+      AI Control Plane
+    </text>
+  </g>
+
+  <!-- CaptureFlow -->
+  <g class="spinMedium">
+    <circle cx="350" cy="325" r="28" fill="#00aaff" filter="url(#glow)"/>
+
+    <text x="350" y="370" text-anchor="middle" class="label">
+      CaptureFlow
+    </text>
+
+    <text x="350" y="390" text-anchor="middle" class="smallLabel">
+      Cognitive Offload
+    </text>
+  </g>
+
+  <!-- Research -->
+  <g class="spinFast">
+    <circle cx="600" cy="145" r="20" fill="#aa66ff" filter="url(#glow)"/>
+
+    <text x="600" y="180" text-anchor="middle" class="label">
+      Research
+    </text>
+  </g>
+
+  <!-- Future Projects -->
+  <g class="spinMedium">
+    <circle cx="600" cy="505" r="22" fill="#66ffcc" filter="url(#glow)"/>
+
+    <text x="600" y="540" text-anchor="middle" class="label">
+      Future Projects
+    </text>
+  </g>
+
+  <!-- Legend -->
+  <rect x="30" y="520" width="240" height="100"
+        fill="rgba(255,255,255,0.05)"
+        stroke="rgba(255,255,255,0.15)"
+        rx="12"/>
+
+  <text x="50" y="550" class="label">
+    Galaxy Structure
+  </text>
+
+  <text x="50" y="575" class="smallLabel">
+    • LA Builds = Innovation Hub
+  </text>
+
+  <text x="50" y="595" class="smallLabel">
+    • Sentinel = AI Safety Ecosystem
+  </text>
+
+  <text x="50" y="615" class="smallLabel">
+    • CaptureFlow = Cognitive Systems
+  </text>
+
+</svg>
