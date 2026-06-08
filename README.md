@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="./assets/la-builds-galaxy.svg" width="100%" alt="LA Builds Galaxy"/>
-</p>
+<div align="center">
+
+<img src="./assets/la-builds-galaxy.svg" width="100%" alt="LA Builds Galaxy"/>
+
+# Larry Arnold | Cipher
+
+### Founder of LA Builds
+
+Building AI systems that help humanity think, learn, create, and thrive.
+
+</div>
 
 # SENTINEL PROTOCOL COMMAND CENTER
 
