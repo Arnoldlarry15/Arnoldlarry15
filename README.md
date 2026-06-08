@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="./assets/sentinel-solar-system.svg" width="100%" alt="Sentinel Protocol Solar System"/>
+<p align="center">
+  <img src="./assets/la-builds-galaxy.svg" width="100%" alt="LA Builds Galaxy"/>
+</p>
 
 # SENTINEL PROTOCOL COMMAND CENTER
 
