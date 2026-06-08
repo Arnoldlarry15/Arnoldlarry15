@@ -118,34 +118,44 @@
   <ellipse cx="600" cy="325" rx="360" ry="260" class="orbit"/>
 
   <!-- Sentinel Protocol System -->
-  <g class="spinSlow">
-    <circle cx="850" cy="325" r="35" fill="#ffcc00" filter="url(#glow)"/>
+   <g class="spinSlow">
+     <circle cx="850" cy="325" r="35" />
+   </g>
 
-    <text x="850" y="375" text-anchor="middle" class="label">
-      Sentinel Protocol
-    </text>
+   <text x="850"
+         y="375"
+         text-anchor="middle"
+         class="label">
+       Sentinel Protocol
+   </text>
 
     <!-- Sentinel moons -->
     <circle cx="900" cy="325" r="10" fill="#ff6666"/>
+    </g>
+  
     <text x="920" y="330" class="smallLabel">
       ProtoCell
     </text>
 
     <circle cx="850" cy="275" r="8" fill="#66ccff"/>
+    </g>
+  
     <text x="870" y="280" class="smallLabel">
       ARES
     </text>
 
     <circle cx="810" cy="360" r="8" fill="#66ff99"/>
+    </g> 
+  
     <text x="760" y="365" class="smallLabel">
       AI Control Plane
     </text>
-  </g>
 
   <!-- CaptureFlow -->
   <g class="spinMedium">
     <circle cx="350" cy="325" r="28" fill="#00aaff" filter="url(#glow)"/>
-
+    </g>
+  
     <text x="350" y="370" text-anchor="middle" class="label">
       CaptureFlow
     </text>
@@ -153,25 +163,24 @@
     <text x="350" y="390" text-anchor="middle" class="smallLabel">
       Cognitive Offload
     </text>
-  </g>
 
   <!-- Research -->
   <g class="spinFast">
     <circle cx="600" cy="145" r="20" fill="#aa66ff" filter="url(#glow)"/>
-
+    </g>
+  
     <text x="600" y="180" text-anchor="middle" class="label">
       Research
     </text>
-  </g>
 
   <!-- Future Projects -->
   <g class="spinMedium">
     <circle cx="600" cy="505" r="22" fill="#66ffcc" filter="url(#glow)"/>
+    </g>
 
     <text x="600" y="540" text-anchor="middle" class="label">
       Future Projects
     </text>
-  </g>
 
   <!-- Legend -->
   <rect x="30" y="520" width="240" height="100"
