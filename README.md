@@ -151,11 +151,11 @@ Telemetry, orchestration, and visibility platform for complex AI operations.
 # LIVE TELEMETRY
 
 <div align="center">
-
-![](https://github-readme-stats-labuilds.vercel.app/api?username=Arnoldlarry15&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats-labuilds.vercel.app/api/top-langs/?username=Arnoldlarry15&layout=compact&theme=tokyonight&hide_border=true)
-
+  
+  <img height="180em" src="https://github-readme-stats-labuilds.vercel.app/api?username=Arnoldlarry15&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
+  
+  <img height="180em" src="https://github-readme-stats-labuilds.vercel.app/api/top-langs/?username=Arnoldlarry15&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
+  
 </div>
 
 ---
