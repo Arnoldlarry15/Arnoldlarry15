@@ -66,6 +66,18 @@ My work focuses on:
 
 ---
 
+## A Note From Me
+
+I don’t build projects for novelty. I build them because real problems exist and most systems are not designed with people in mind.
+
+AI safety, cognition, memory, connection between people, these are not abstract themes to me. They are active engineering targets.
+
+I care less about hype and more about outcomes.
+
+If something I build does not protect, empower, or clarify, it doesn’t belong in the system.
+
+---
+
 # SENTINEL ECOSYSTEM
 
 <table>
@@ -145,18 +157,6 @@ Telemetry, orchestration, and visibility platform for complex AI operations.
 - Expand the Sentinel Protocol ecosystem
 - Research scalable agent architectures
 - Create technology that genuinely helps people
-
----
-
-# LIVE TELEMETRY
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats-labuilds.vercel.app/api?username=Arnoldlarry15&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
-  
-  <img height="180em" src="https://github-readme-stats-labuilds.vercel.app/api/top-langs/?username=Arnoldlarry15&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
-  
-</div>
 
 ---
 
