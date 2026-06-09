@@ -34,17 +34,17 @@ Building AI systems that help humanity think, learn, create, and thrive.
 # COMMAND CENTER
 
 ```text
-╔════════════════════════════════════════════════════════╗
-║             SENTINEL PROTOCOL // ONLINE               ║
-╠════════════════════════════════════════════════════════╣
-║ OPERATOR ............... CIPHER                       ║
-║ ORGANIZATION ........... LA BUILDS                    ║
-║ AI RESEARCH ............ ACTIVE                       ║
-║ PROJECTS ............... DEPLOYING                    ║
-║ HUMAN AUGMENTATION ..... IN PROGRESS                  ║
-║ COFFEE RESERVES ........ CRITICALLY LOW              ║
-║ DETERMINATION .......... LEGENDARY                    ║
-╚════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║             SENTINEL PROTOCOL // ONLINE                   ║
+╠══════════════════════════════════════════════════╣
+║ OPERATOR ............... CIPHER                           ║
+║ ORGANIZATION ........... LA BUILDS                        ║
+║ AI RESEARCH ............ ACTIVE                           ║
+║ PROJECTS ............... DEPLOYING                        ║
+║ HUMAN AUGMENTATION ..... IN PROGRESS                      ║
+║ COFFEE RESERVES ........ CRITICALLY LOW                   ║
+║ DETERMINATION .......... LEGENDARY                        ║
+╚══════════════════════════════════════════════════╝
 ```
 
 ---
