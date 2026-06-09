@@ -170,6 +170,27 @@ Telemetry, orchestration, and visibility platform for complex AI operations.
 
 ---
 
+<details>
+<summary>🛰️ Access LA Builds Terminal</summary>
+
+```bash
+$ launch sentinel-protocol
+[✓] AI safety systems online
+
+$ launch captureflow
+[✓] Cognitive augmentation active
+
+$ launch rsea-agent
+[✓] Research assistant initialized
+
+$ reveal_secret
+Error: Nice try.
+```
+
+</details>
+
+---
+
 # RESEARCH INTERESTS
 
 ```text
