@@ -35,15 +35,15 @@ Building AI systems that help humanity think, learn, create, and thrive.
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║             SENTINEL PROTOCOL // ONLINE                   ║
+║             SENTINEL PROTOCOL // ONLINE          ║
 ╠══════════════════════════════════════════════════╣
-║ OPERATOR ............... CIPHER                           ║
-║ ORGANIZATION ........... LA BUILDS                        ║
-║ AI RESEARCH ............ ACTIVE                           ║
-║ PROJECTS ............... DEPLOYING                        ║
-║ HUMAN AUGMENTATION ..... IN PROGRESS                      ║
-║ COFFEE RESERVES ........ CRITICALLY LOW                   ║
-║ DETERMINATION .......... LEGENDARY                        ║
+║ OPERATOR ............... CIPHER                  ║
+║ ORGANIZATION ........... LA BUILDS               ║
+║ AI RESEARCH ............ ACTIVE                  ║
+║ PROJECTS ............... DEPLOYING               ║
+║ HUMAN AUGMENTATION ..... IN PROGRESS             ║
+║ COFFEE RESERVES ........ CRITICALLY LOW          ║
+║ DETERMINATION .......... LEGENDARY               ║
 ╚══════════════════════════════════════════════════╝
 ```
 
