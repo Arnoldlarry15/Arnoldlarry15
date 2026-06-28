@@ -84,11 +84,9 @@ If something I build does not protect, empower, or clarify, it doesn’t belong 
 <tr>
 <td width="50%">
 
-## CaptureFlow
+## Operant
 
-AI-powered cognitive offload system.
-
-Capture information instantly and transform it into structured knowledge.
+Simple select your components/tools AI agent store with immediate dashboard access; no API keys necessary 
 
 </td>
 
