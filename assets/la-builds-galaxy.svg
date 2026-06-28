@@ -1691,6 +1691,8 @@
     </path>
     <path id="orbit-5" d="M 0,-380 A 960,380 0 1,1 0,380 A 960,380 0 1,1 0,-380" fill="none" stroke="#be123c" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="8 8">
     </path>
+    <path id="orbit-6" d="M 0,-440 A 1100,440 0 1,1 0,440 A 1100,440 0 1,1 0,-440" fill="none" stroke="#06b6d4" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="8 8">
+    </path>
     <circle r="95" fill="url(#black-hole-edge)" filter="url(#glow)">
     </circle>
     <circle r="85" fill="#020108">
@@ -1906,6 +1908,28 @@
       </g>
       <text x="0" y="75" fill="#ffffff" font-size="22" font-weight="600" font-family="system-ui, -apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Roboto, sans-serif" text-anchor="middle" letter-spacing="2px" style="text-shadow:0px 2px 6px rgba(0,0,0,1)">MARYVILLE UNIVERSITY</text>
       <text x="0" y="105" fill="#ffffff" font-size="18" font-weight="400" font-family="system-ui, -apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Roboto, sans-serif" text-anchor="middle" letter-spacing="2px" opacity="0.8" style="text-shadow:0px 2px 6px rgba(0,0,0,1)">COMPUTER SCIENCE &amp; AI</text>
+    </g>
+    <g>
+      <animateMotion dur="190s" repeatCount="indefinite" begin="-35s">
+        <mpath href="#orbit-6" xlink:href="#orbit-6">
+        </mpath>
+      </animateMotion>
+      <circle r="45" fill="#06b6d4" opacity="0.3" filter="url(#glow-intense)">
+      </circle>
+      <circle r="38" fill="#0b081a" stroke="#06b6d4" stroke-width="3" filter="url(#glow)">
+      </circle>
+      <g transform="translate(-16, -16)" color="#06b6d4">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M3 9h18v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9z">
+          </path>
+          <path d="M3 9l2.45-4.9A2 2 0 0 1 7.24 3h9.52a2 2 0 0 1 1.8 1.1L21 9">
+          </path>
+          <path d="M12 3v6">
+          </path>
+        </svg>
+      </g>
+      <text x="0" y="75" fill="#ffffff" font-size="22" font-weight="600" font-family="system-ui, -apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Roboto, sans-serif" text-anchor="middle" letter-spacing="2px" style="text-shadow:0px 2px 6px rgba(0,0,0,1)">OPERANT</text>
+      <text x="0" y="105" fill="#ffffff" font-size="18" font-weight="400" font-family="system-ui, -apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Roboto, sans-serif" text-anchor="middle" letter-spacing="2px" opacity="0.8" style="text-shadow:0px 2px 6px rgba(0,0,0,1)">AI AGENT MARKETPLACE</text>
     </g>
   </g>
 </svg>
