@@ -167,7 +167,7 @@ Telemetry, orchestration, and visibility platform for complex AI operations.
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square)
 ![Qwen](https://img.shields.io/badge/Qwen-6F42C1?style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
-[Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-MCP-4A90E2?style=flat-square)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-MCP-4A90E2?style=flat-square)
 
 ### Cloud & Infrastructure
 
@@ -280,7 +280,7 @@ LinkedIn:
 https://linkedin.com/in/larry-arnold
 
 Email:
-labuilds@proton.me
+founder@labuilds.xyz
 
 ---
 
