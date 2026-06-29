@@ -124,6 +124,9 @@ Telemetry, orchestration, and visibility platform for complex AI operations.
 
 ### Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
@@ -131,20 +134,72 @@ Telemetry, orchestration, and visibility platform for complex AI operations.
 
 ### Frontend
 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square)
 
 ### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 
-### Infrastructure
+### Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square)
+
+### AI & ML
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![xAI](https://img.shields.io/badge/xAI-000000?style=flat-square)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-6F42C1?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+[Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-MCP-4A90E2?style=flat-square)
+
+### Cloud & Infrastructure
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square)
+![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-DD344C?style=flat-square)
+![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-527FFF?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=flat-square)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-000000?style=flat-square)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square)
+
+### Web3
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square)
+![Alchemy](https://img.shields.io/badge/Alchemy-6633FF?style=flat-square)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=flat-square)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square)
 
 ---
 
